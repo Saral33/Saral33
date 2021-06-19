@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋. I am Saral Karki, MERN stack developer who loves working with software that matters.
 
 
 
-- 🌱 I’m currently learning React Native and NextJs
+- 🌱 I’m currently learning Typescript and NextJs
 - 📫 How to reach me: Twitter- @SaralKarki2
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Talk to me about ReactJS and NodeJS 
