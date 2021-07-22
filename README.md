@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Typescript and NextJs
+- 🌱 I’m currently learning Typescript 
 - 📫 How to reach me: Twitter- @SaralKarki2
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Talk to me about ReactJS and NodeJS 
