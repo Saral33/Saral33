@@ -1,10 +1,9 @@
-### Hi there 👋. I am Saral Karki, MERN stack developer who loves working with software that matters.
+### Hi there 👋. I am Saral Karki,I love working with software that matters.
 
 
 
-- 🌱 I’m currently learning Typescript 
-- 👯 I’m looking to collaborate on Open-source Projects.
-- 💬 Talk to me about ReactJS and NodeJS 
+- 🌱 I’m currently working at Ingrails as a frontend developer
+- 💬 Talk to me about new technologies
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Saral33&count_private=true&theme=tokyonight&showicons=true)]()
