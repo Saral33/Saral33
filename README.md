@@ -1,4 +1,4 @@
-### Hi there 👋. I am Saral Karki,I love working with software that matters.
+### Hi there 👋. I am Saral Karki,I am a software developer that loves working with software that matters.
 
 
 
