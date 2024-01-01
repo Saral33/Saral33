@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently working at Ingrails as a frontend developer
 - 💬 Talk to me about new technologies
+- 📊 Currently learning graphql
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Saral33&count_private=true&theme=tokyonight&showicons=true)]()
