@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently working at Ingrails as a frontend developer
-- 💬 Talk to me about new technologies
+- 💬 Talk to me about new technologies and football
 - 📊 Currently learning graphql
 
 
