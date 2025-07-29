@@ -35,7 +35,7 @@ I'm a software developer passionate about building **software that matters**.
 - Building scalable web applications with modern frameworks
 - Implementing AI-powered features using LangChain and RAG
 - Exploring microservices architecture with Go and FastAPI
-- Contributing to open-source projects
+
 
 ## 📫 Let's Connect
-Feel free to reach out if you want to collaborate on interesting projects or just have a chat about technology and football!
+Feel free to reach out if you want to collaborate on interesting projects or just have a chat about technology.
