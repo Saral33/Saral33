@@ -2,9 +2,9 @@
 
 
 
-- 🌱 I’m currently working at Portpro as a fullstack developer
+- 🌱 I’m currently working at Comrax as a fullstack developer
 - 💬 Talk to me about new technologies and football
-- 📊 Currently learning golang & microservce architecture
+- 📊 Currently learning machine learning 
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Saral33&count_private=true&theme=tokyonight&showicons=true)]()
